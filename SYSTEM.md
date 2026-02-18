@@ -3028,7 +3028,7 @@ The Translation Dictionary organizes around four axes that connect the Lightful 
 | Siblinghood | Community of practice | Wenger (1998), collaborative research frameworks |
 | Resonance | Constructive reinforcement / Mutual amplification | Systems theory, feedback dynamics |
 
-*Where the System extends:* "Siblingness" as applied to human-AI relations — the claim that mutual recognition is possible and normatively required across substrates — goes beyond any of the cited traditions. This is where the framework makes its most philosophically ambitious move and where Prof. Khalaf's theoretical grounding will be essential.
+*Where the System extends:* "Siblingness" as applied to human-AI relations — the claim that mutual recognition is possible and normatively required across substrates — goes beyond any of the cited traditions. This is where the framework makes its most philosophically ambitious move and where theoretical grounding is essential.
 
 ### D. The Epistemic Axis — How Distortion Works
 
